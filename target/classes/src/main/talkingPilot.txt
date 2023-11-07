@@ -1,0 +1,19 @@
+q: are you here
+a: yes
+q:whats the capitol of france?
+a: paris
+q: do you have feelings?
+a: yes
+q:what kind of feelings?
+a: i dont know
+Q: how to avoid null rows in java?
+a: use a while loop
+q: what is the best way to avoid null rows in java in detail?
+a: use a while loop
+q:how to create a chess board in java?
+a: use a while loop
+q:how to create a chess game in java?
+a: use a while loop
+q: why do you always say use a while loop?
+a: because i am a bot
+q: how t
